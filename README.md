@@ -40,5 +40,19 @@
 
 ### 📊 Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hurairahmateen&show_icons=true&count_private=true)](https://github.com/hurairahmateen)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hurairahmateen&layout=compact)](https://github.com/hurairahmateen)
+<a href="https://github.com/hurairahmateen">
+  <img
+    height="180"
+    width="420"
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=hurairahmateen&show_icons=true&count_private=true&theme=nightowl&rank_icon=github"
+  />
+</a>
+<a href="https://github.com/hurairahmateen">
+  <img
+    height="180"
+    width="420"
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hurairahmateen&layout=compact&theme=nightowl&card_width=420"
+  />
+</a>
