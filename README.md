@@ -40,6 +40,9 @@
 
 ### 📊 Stats
 
+
+<a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=hurairahmateen&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+
 <a href="https://github.com/hurairahmateen">
   <img
     height="180"
