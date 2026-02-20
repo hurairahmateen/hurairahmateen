@@ -2,12 +2,15 @@
 
 - 🔭 I enjoy building reliable and scalable full stack web applications  
 - ⚡ Interested in authentication systems, cloud native architectures, and modern developer tooling  
-- 👯 Open to collaborating on interesting engineering projects  
+- 👯 Open to collaborating on interesting engineering projects 
+- 🌐 Portfolio: <a href="https://www.hurairahmateen.com/" target="_blank">hurairahmateen.com</a>
 - 📫 How to reach me: <a href="mailto:hurairahmateen@live.com">send me an email</a>  
 - 💬 Feel free to connect with me here:
 
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://www.hurairahmateen.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-hurairahmateen-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hurairahmateen)
 [![GitHub Badge](https://img.shields.io/badge/-hurairahmateen-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hurairahmateen)
+
 
 ---
 
